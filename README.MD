@@ -1,4 +1,4 @@
-## 🇷🇴: Salut!👋
+## RO: Salut!👋
 
 Am creat aceasta resursa pentru cei care au nevoie de problemele de la BAC-2009 care au ca baza **C/C++**. 
 
@@ -9,7 +9,7 @@ Am creat aceasta resursa pentru cei care au nevoie de problemele de la BAC-2009 
 
   
 
-## 🇷🇴: Teoria 📖
+## RO: Teoria 📖
 
 Toata teoria folosita in rezolvarea problemelor gasite in acest *repo*, ba chiar toata teoria pentru liceu in **C/C++** se regaseste pe [pbinfo.ro](https://www.pbinfo.ro/).
 
@@ -19,7 +19,7 @@ Toata teoria folosita in rezolvarea problemelor gasite in acest *repo*, ba chiar
 
   
 
-## 🇬🇧: Hi! 👋
+## EN: Hi! 👋
 
 I created this resource for those who need BAC-2009 problems that are based on **C/C++**. 
 
@@ -27,5 +27,3 @@ I created this resource for those who need BAC-2009 problems that are based on *
 - The functions / subprograms of problems number 3 (topic 3) are solved in the most efficient way;
 
 - Problems numbered 4 in *Subjects 3* are solved efficiently, and the program description may be missing from some problems;
-
-Translated with www.DeepL.com/Translator (free version)
