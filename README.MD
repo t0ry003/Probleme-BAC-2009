@@ -55,7 +55,7 @@ I created this resource for those who need BAC-2009 problems that are based on *
 |      018       |    DONE     |                       |
 |      019       |    DONE     |                       |
 |      020       |    DONE     |                       |
-|      021       | IN PROGRESS |                       |
+|      021       |    DONE     |                       |
 |      022       | IN PROGRESS |                       |
 |      023       | IN PROGRESS |                       |
 |      024       | IN PROGRESS |                       |
