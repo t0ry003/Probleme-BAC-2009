@@ -56,8 +56,8 @@ I created this resource for those who need BAC-2009 problems that are based on *
 |       019       |    DONE     |                       |
 |       020       |    DONE     |                       |
 |       021       |    DONE     |                       |
-|       022       |   PROBLEM   |    S3P4 - unsolved    |
-|       023       | IN PROGRESS |                       |
+|       022       |    DONE     |                       |
+|       023       |   PROBLEM   |    S3P4 - unsolved    |
 |       024       | IN PROGRESS |                       |
 |       025       | IN PROGRESS |                       |
 |       026       | IN PROGRESS |                       |
@@ -135,6 +135,4 @@ I created this resource for those who need BAC-2009 problems that are based on *
 |       098       | IN PROGRESS |                       |
 |       099       | IN PROGRESS |                       |
 |       100       | IN PROGRESS |                       |
-
-
 
