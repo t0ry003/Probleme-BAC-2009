@@ -6,9 +6,8 @@
 using namespace std;
 
 int f(int a) {
-    int s = 0;
+    int s = 0, d = 2;
 
-    int d = 2;
     while (a != 1) {
         int p = 0;
         while (a % d == 0) {
