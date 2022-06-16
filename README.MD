@@ -10,7 +10,7 @@
 
 </div>
 
-## RO: Salut!👋
+## RO: Salut!👋 
 
 Am creat aceasta resursa pentru cei care au nevoie de problemele de la BAC-2009 care au ca baza **C/C++**. 
 
