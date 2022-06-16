@@ -1,3 +1,14 @@
+<div align="center">
+
+[![t0ry003 - Probleme-BAC-2009](https://img.shields.io/static/v1?label=t0ry003&message=Probleme-BAC-2009&color=black&logo=github)](https://github.com/t0ry003/Probleme-BAC-2009 "Go to GitHub repo")
+[![License](https://img.shields.io/badge/License-MIT-black)](#license)
+</br>
+[![stars - Probleme-BAC-2009](https://img.shields.io/github/stars/t0ry003/Probleme-BAC-2009?style=social)](https://github.com/t0ry003/Probleme-BAC-2009)
+[![forks - Probleme-BAC-2009](https://img.shields.io/github/forks/t0ry003/Probleme-BAC-2009?style=social)](https://github.com/t0ry003/Probleme-BAC-2009)
+</br>
+[![issues - Probleme-BAC-2009](https://img.shields.io/github/issues/t0ry003/Probleme-BAC-2009)](https://github.com/t0ry003/Probleme-BAC-2009/issues)
+</div>
+
 ## RO: Salut!👋
 
 Am creat aceasta resursa pentru cei care au nevoie de problemele de la BAC-2009 care au ca baza **C/C++**. 
