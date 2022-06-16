@@ -70,8 +70,8 @@ I created this resource for those who need BAC-2009 problems that are based on *
 |       021       |    DONE     |                       |
 |       022       |    DONE     |                       |
 |       023       |   PROBLEM   |    S3P4 - unsolved    |
-|       024       | IN PROGRESS |                       |
-|       025       | IN PROGRESS |                       |
+|       024       |    DONE     |                       |
+|       025       |    DONE     |                       |
 |       026       | IN PROGRESS |                       |
 |       027       | IN PROGRESS |                       |
 |       028       | IN PROGRESS |                       |
